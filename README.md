@@ -10,6 +10,7 @@
 </p>
 
 ## Highlights
+## By Mudassir Alam
 
 * Single header file
 * Requires C++17
